@@ -19,9 +19,8 @@ Vous commencerez avec des fichiers HTML et CSS pré-codés qui contiennent le de
 2. **Affichage des tâches** : Afficher les tâches ajoutées dans une liste sous le champ de texte.
 3. **Suppression des tâches** : Permettre à l'utilisateur de cliquer sur une tâche pour la supprimer de la liste.
 
-## Challenge Supplémentaire
-4. **Sauvegarde des tâches** : Sauvegarder automatiquement les tâches dans le localStorage dès qu'une nouvelle tâche est ajoutée ou une tâche existante est supprimée.
-- **Amélioration de la Gestion des Tâches** : Ajouter une fonctionnalité pour marquer les tâches comme complétées en cliquant sur elles, au lieu de les supprimer immédiatement.
-- **Filtrage des Tâches** : Implementer un système de filtrage pour voir toutes les tâches, uniquement les tâches actives ou les tâches complétées.
+## Bonus 🎉
+- **Sauvegarde des tâches** : Sauvegarder automatiquement les tâches dans le localStorage dès qu'une nouvelle tâche est ajoutée ou une tâche existante est supprimée.
+
 
 Utilisez les fichiers HTML, CSS et JavaScript fournis pour démarrer et appliquez vos connaissances pour compléter ce projet!
