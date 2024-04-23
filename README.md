@@ -21,6 +21,3 @@ Vous commencerez avec des fichiers HTML et CSS pré-codés qui contiennent le de
 
 ## Bonus 🎉
 - **Sauvegarde des tâches** : Sauvegarder automatiquement les tâches dans le localStorage dès qu'une nouvelle tâche est ajoutée ou une tâche existante est supprimée.
-
-
-Utilisez les fichiers HTML, CSS et JavaScript fournis pour démarrer et appliquez vos connaissances pour compléter ce projet!
